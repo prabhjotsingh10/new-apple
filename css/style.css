@@ -7,15 +7,16 @@
 }
 
 .menu-list{
-    color: aliceblue;
+    display: block;
+    color: white;
     text-align:left;
     font-size: 2em;
     padding-left: 2em;
 }
 
 .input-box{
-    background-color:slategray;
-    text-align: center;
+    background-color:white;
+    text-align: left;
     display: block;
 }
 #logo{
@@ -28,11 +29,28 @@
     background-image: url('../img/iphone11pro.jpg');
     background-color: black;
     width: auto;
-    height: auto;
+    height:45em;
+    
 }
 
-#first-para-heading{
-    font-size: 10px;
-    color: black;;
-    
+.second-section{
+    width:auto ;
+    height:45em ;
+    background-color:white ; 
+    background-image:url('../img/iphone11.jpg');
+}
+
+#main{
+    color: white;
+}
+
+.div-for-second-section{
+    text-align: center;
+    font-size: 2em;
+    color: black;
+    padding-top: 2em;
+}
+
+#heading-1{
+    font-family: 'Roboto';  
 }
