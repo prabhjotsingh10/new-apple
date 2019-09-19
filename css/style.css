@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+.topbar{
+    background-color: black;
+}
+
+.menu-list{
+    color: aliceblue;
+    text-align:left;
+    font-size: 2em;
+    padding-left: 2em;
+}
+
+.input-box{
+    background-color:slategray;
+    text-align: center;
+    display: block;
+}
+#logo{
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.first-section{
+    background-image: url('../img/iphone11pro.jpg');
+    background-color: black;
+    width: auto;
+    height: auto;
+}
+
+#first-para-heading{
+    font-size: 10px;
+    color: black;;
+    
+}
